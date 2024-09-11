@@ -9,7 +9,6 @@ artist_id = 'ARTIST_ID'
 access_token = get_token()
 
 albums = get_artist_albums(artist_id, access_token)
-albums = get_artist_albums(artist_id, access_token)
 
 data = []
 

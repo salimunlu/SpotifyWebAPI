@@ -2,7 +2,7 @@
 
 Bu proje, Spotify API'sini kullanarak belirli bir sanatçının albümlerini ve parçalarını analiz etmek ve görselleştirmek için tasarlanmıştır. Spotify API'den gelen verilerle şarkıların ses özellikleri (audio features) alınır ve bunlar çeşitli grafikler ile görselleştirilir.
 
-## Gereksinimler
+## Gereksinimler (`requirements.txt`)
 
 Bu projeyi çalıştırmadan önce aşağıdaki bileşenlerin sisteminizde yüklü olduğundan emin olun:
 

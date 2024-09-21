@@ -17,7 +17,11 @@ Bu projeyi kullanmak için aşağıdaki adımları takip edin:
 
 Projeyi çalıştırmak için Spotify Developer hesabına ihtiyacınız var. [Spotify Developer](https://developer.spotify.com/dashboard/login) üzerinden bir hesap oluşturun ve bir uygulama yaratın. Bu uygulama size **Client ID** ve **Client Secret** verecektir.
 
-### 2. Gerekli Kütüphaneleri Yükleyin
+### 2. Spotify'dan Artist ID Alın
+
+Spotify'ı browser üzerinde açın ve ilgili artistin sayfasına gelin, adres çubuğunda URL'in sonunda **Artist ID**'yi bulacaksınız. Bunu main.py dosyasında ilgili yere yapıştırın.
+
+### 3. Gerekli Kütüphaneleri Yükleyin
 
 Gerekli Python kütüphanelerini `requirements.txt` dosyasını kullanarak yükleyebilirsiniz:
 
